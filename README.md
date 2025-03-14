@@ -38,6 +38,7 @@ This project **automates data extraction** using **Selenium** and saves billiona
 │── .gitignore              # Ignore unnecessary files
 
 
+---
 
 ## 🚀 Features  
 
@@ -68,6 +69,7 @@ This project **automates data extraction** using **Selenium** and saves billiona
 - 🔧 **WebDriver Manager** – For managing ChromeDriver  
 
 
+---
 
 ## 📊 Sample Output  
 
