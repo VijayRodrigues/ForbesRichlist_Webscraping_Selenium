@@ -29,13 +29,7 @@ This project **automates data extraction** using **Selenium** and saves billiona
 
 ## 📂 Project Structure  
 
-📦 forbes-billionaires-scraper
-│── 📂 data                 # Stores extracted data
-│   │── billionaires.csv
-│── scraper.py              # Python script to scrape billionaire details
-│── requirements.txt        # Python dependencies
-│── README.md               # Project documentation
-│── .gitignore              # Ignore unnecessary files
+![image](https://github.com/user-attachments/assets/e4d64509-347f-4c36-aa88-5241e3fb097e)
 
 
 ---
